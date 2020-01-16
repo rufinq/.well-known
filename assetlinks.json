@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.example.cleanwatermap",
-    "sha256_cert_fingerprints":
-    ["E6:2F:73:71:EB:A0:B3:86:5D:ED:D1:AA:AB:54:D2:64:17:F4:05:F5:70:49:C0:C3:F4:3B:89:F5:58:B2:B7:EC"]
-  }
-}]
